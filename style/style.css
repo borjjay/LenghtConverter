@@ -1,0 +1,57 @@
+body{
+    background-color: rgba(3, 49, 87, 0.808);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+span{
+    color: red;
+   
+    font-size: 13px;
+}
+.wrapper{
+
+   
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: rgba(0, 0, 0, 0.685);
+    border-radius: 10px;
+    padding: 30px;
+    box-shadow: rgb(38,57, 77) 0px 20px 30px -10px;
+    
+    
+}
+
+
+
+input{
+    border: none;
+    border-bottom: 1px solid #fff;
+    outline: none;
+    background: transparent;
+    color: white;
+    width: 220px;
+    font-size: large;
+    
+    
+}
+select{
+    outline: none;
+}
+
+#resultType{
+    
+    
+    
+    font-size: large;
+   
+}
+#inputType{
+    
+   
+    font-size: larger;
+   
+}
